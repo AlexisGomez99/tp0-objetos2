@@ -19,7 +19,7 @@ public class MainTest {
 		System.out.println("------------");
 		dia.imprimirDiaCorto();
 		System.out.println("------------");
-		
+		System.out.println("cambioo");
 		TiempoAnemico diaAnemico= new TiempoAnemico(diaN);
 		
 		LocalDate diaanemico= diaAnemico.getDia();
